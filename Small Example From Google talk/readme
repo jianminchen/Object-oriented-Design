@@ -8,7 +8,7 @@
   
  The implementation is not naive version, 
  see the implementation:
- https://github.com/jianminchen/OODesignPractice/blob/master/ConditionalVersion.cs
+https://github.com/jianminchen/Object-oriented-Design/blob/master/Small%20Example%20From%20Google%20talk/ConditionalVersion.cs
   
  instead, OpNode and ValueNode are designed to bring in polymorphism. Good pratice: 
  Node (better called: AbstractNode, differentiate from Node), OpNode, ValueNode
