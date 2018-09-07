@@ -12,3 +12,10 @@ https://github.com/jianminchen/Object-oriented-Design/blob/master/Small%20Exampl
   
  instead, OpNode and ValueNode are designed to bring in polymorphism. Good pratice: 
  Node (better called: AbstractNode, differentiate from Node), OpNode, ValueNode
+ 
+ 
+ The blog is here to document the practice. 
+ 
+ http://juliachencoding.blogspot.com/search?q=clean+code+talks
+ 
+ 
