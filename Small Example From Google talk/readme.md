@@ -26,3 +26,8 @@ https://github.com/jianminchen/Object-oriented-Design/blob/master/Small%20Exampl
  http://juliachencoding.blogspot.com/search?q=clean+code+talks
  
  
+ Julia put together C# code based on clean code talk, and also wrote a blog in Dec. 2015. 
+ 
+ http://juliachencoding.blogspot.com/2015/12/oo-principle-solid-open-close-principle.html
+ 
+ 
