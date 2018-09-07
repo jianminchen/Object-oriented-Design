@@ -31,3 +31,5 @@ https://github.com/jianminchen/Object-oriented-Design/blob/master/Small%20Exampl
  http://juliachencoding.blogspot.com/2015/12/oo-principle-solid-open-close-principle.html
  
  
+Sept. 7, 2018
+Add a new folder with those three examples, one is conditional version, naive one, break Single responsiblity principle; second one is to separate OpNode and ValueNode; third one is to apply polymorphic solution, for each operator, there is one class for the oeprator. 
