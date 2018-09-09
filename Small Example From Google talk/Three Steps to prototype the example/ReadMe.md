@@ -18,51 +18,20 @@ Three solutions are provided, naive one, better one, optimal solution to apply S
 1. Represent this as a tree
 
    +
+   
 /     \
+
 1     *
+
     /    \
+    
   2      3
+  
 
 Most of people come out solution like the following:
  Using conditionals
 
-  class Node{
-     char operator;
-     double value;
-     Node left;
-     Node right;
-     double evaluate(){
-       switch(operator){
-        case '#': return value;
-        case '+': return left.evaluate() + right.evaluate();
-        case '*" return left.evaluate() * right.evaluate();
-        case ...  // edit this for each new operator
-       }
-    }
- }
 
- Big problem on this:
-  graphic representation,
-  Node
-  op:char
-  value: double
-  left: Node
-  right:Node
- --------------
-   evaluate():double
-
-Julia could not figure out the analysis here <- first time to memorize this analysis, and also try to learn reasoning
-
-    Analyzing attributes
-
-                           #      +        *
-function                      yes     yes
-value                  yes
-left                              yes     yes
-right                            yes     yes
-
-Two different behaviors are fighting here, (see the above table), not matching Single Responsibility Principle.
-if you are the operation node, then you need your left and right child; whereas value node, you just need value.
 
 Reference: 
 http://juliachencoding.blogspot.com/2015/12/oo-principle-solid-open-close-principle.html
