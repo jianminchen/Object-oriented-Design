@@ -15,22 +15,6 @@ Problem statement: 1 + 2*3, how to implement in OO design (using C# language)
 
 Three solutions are provided, naive one, better one, optimal solution to apply S.O. principles.
 
-1. Represent this as a tree
-
-   +
-   
-/     \
-
-1     *
-
-    /    \
-    
-  2      3
-  
-
-Most of people come out solution like the following:
- Using conditionals
-
 
 
 Reference: 
