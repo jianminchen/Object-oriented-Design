@@ -4,7 +4,9 @@ Design classes for the binary expression tree with addition, multiplication oper
 
 Original source: 
 
-"The Clean Code Talks -- Inheritance, Polymorphism, & Testing"https://www.youtube.com/watch?v=4F72VULWFvc
+"The Clean Code Talks -- Inheritance, Polymorphism, & Testing"
+
+https://www.youtube.com/watch?v=4F72VULWFvc
 
 action items:
 1. put sample code in C#, and then, check in git;
