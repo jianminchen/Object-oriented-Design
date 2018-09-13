@@ -16,7 +16,7 @@
  
  The blogs are [here](http://juliachencoding.blogspot.com/search?q=clean+code+talks) to document the practice.  
  
- Julia put together C# code based on clean code talk, and also wrote a blog titled [Object-oriented principle: solid principles, open-closeprinciple](http://juliachencoding.blogspot.com/2015/12/oo-principle-solid-open-close-principle.html) in Dec. 2015. 
+ Julia put together C# code based on clean code talk, and also wrote a blog titled [Object-oriented principle: solid principles, open-close principle](http://juliachencoding.blogspot.com/2015/12/oo-principle-solid-open-close-principle.html) in Dec. 2015. 
 
  
 Sept. 7, 2018
